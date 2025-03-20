@@ -28,7 +28,7 @@ Read the full article here: **[Link to Blog Post]** (https://jeevangupta.com/pyt
 
   1. Clone this repository
   2. Explore the content: This repository may contain code examples, explanations, or exercises to solidify your understanding.
-  3. Practice: Feel free to experiment and create your own Python programs utilizing Decorators!
+  3. Practice: Feel free to experiment and create your own Python programs utilizing python functions!
 
 
 ## Contributing
